@@ -131,3 +131,6 @@ dmypy.json
 # OS stuff
 .DS_Store
 .idea/
+
+# ignore files
+c2-machine-learning-data-lifecycle-in-production/week2/data/data.zip
